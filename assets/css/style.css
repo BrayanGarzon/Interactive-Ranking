@@ -1,0 +1,151 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&family=Overpass:wght@400;700&family=Poppins:ital,wght@0,200;0,300;0,400;1,200;1,300&display=swap');
+
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Outfit', sans-serif;
+    font-family: 'Overpass', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    background-color: hsl(216, 12%, 8%);
+    
+}
+
+section{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+section .card{
+    width: 350px;
+    height: 380px;
+    background-color: hsl(213, 19%, 18%);
+    border-radius: 20px;
+    flex-direction: column;
+}
+
+
+section .card .stard{
+    margin: 30px;
+    width: 45px;
+    height: 45px;
+    background-color: hsl(218, 6%, 35%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 100%;
+}
+
+section .card .text{
+    margin: 30px;
+    font-family: 'Overpass', sans-serif;
+    color: hsl(0, 0%, 100%);
+}
+
+section .card .text p{
+    color: hsl(217, 12%, 63%);
+    font-size: 15px;
+    font-family: 'Overpass', sans-serif;
+}
+
+section .card .buttons{
+    margin: 30px;
+    font-family: 'Overpass', sans-serif;
+}
+section .card .buttons .buttonsCalifications{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-family: 'Overpass', sans-serif;
+    
+}
+section .card .buttons .buttonsCalifications button{
+    width: 45px;
+    height: 45px;
+    border-radius: 100%;
+    border: none;
+    background-color: hsl(218, 6%, 35%);
+    color: white;
+    cursor: pointer;
+}
+
+
+section .card .buttons .buttonSubmit{
+    margin-top: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+section .card .buttons .buttonSubmit button{
+    width: 100%;
+    height: 45px;
+    border-radius: 50px;
+    border: none;
+    background-color: hsl(25, 97%, 53%);
+    color: white;
+    cursor: pointer;
+}
+
+/* Tu estilo CSS existente aquí */
+
+
+section .card .buttons .buttonSubmit button:hover{
+    background-color: white;
+    color: hsl(25, 97%, 53%);
+}
+
+
+section .notification{
+    width: 350px;
+    height: 380px;
+    background-color: hsl(213, 19%, 18%);
+    border-radius: 20px;
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    display: none;
+    
+}
+.container{
+    display: flex; 
+    flex-direction: column; 
+    align-items: center; 
+    justify-content: center;
+}
+
+section .notification img{
+    margin-top: 30px;
+    margin-bottom: 15px;
+    
+}
+section .notification .p{
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 210px;
+    height: 30px;
+    background-color: hsl(215, 16%, 21%);
+    color: hsl(25, 97%, 53%);
+    border-radius: 20px;
+    font-family: 'Overpass', sans-serif;
+}
+section .notification h1{
+    margin-top: 10px;
+    margin-bottom: 0;
+    color: white;
+}
+section .notification .pText{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 15px;
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: center;
+    color: hsl(217, 12%, 63%);
+}
