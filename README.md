@@ -1,6 +1,6 @@
 # Sistema de Calificación Interactivo
 
-![Screenshot](/images/interativa.png)
+![Screenshot](images/interativa.png)
 
 Este proyecto es un sistema de calificación interactivo desarrollado con HTML, CSS y JavaScript que permite a los usuarios seleccionar una calificación de 1 a 5 y, al hacer clic en "Submit", cambia a una nueva ventana para mostrar la calificación seleccionada.
 
@@ -16,7 +16,7 @@ Para ejecutar el proyecto localmente, simplemente clona este repositorio y abre 
 
 ## Capturas de Pantalla
 
-![Screenshot 1](/images/interativa.png)
+![Screenshot 1](images/interativa.png)
 
 ![Screenshot 2](images/interative2.png)
 
