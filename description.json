@@ -1,7 +1,7 @@
 {
     "name": "interactive ranking",
     "description": "Este proyecto es un sistema de calificación interactivo desarrollado con HTML, CSS y JavaScript que permite a los usuarios seleccionar una calificación de 1 a 5 y, al hacer clic en Submit, cambia a una nueva ventana para mostrar la calificación seleccionada.",
-    "image": "https://github.com/BrayanGarzon/DevOpsPageWeb/blob/main/imgWeb/imagenURL.png?raw=true",
+    "image": "https://github.com/BrayanGarzon/interactiveRanting/blob/main/images/interativa.png?raw=true",
     "frameworks": ["JavaScript", "Html", "CSS"],
     "url_repo": "https://github.com/BrayanGarzon/interactiveRanting.git",
     "fecha": "15/10/2023"
