@@ -4,6 +4,7 @@
     "image": "https://github.com/BrayanGarzon/interactiveRanting/blob/main/images/interativa.png?raw=true",
     "frameworks": ["JavaScript", "Html", "CSS"],
     "url_repo": "https://github.com/BrayanGarzon/interactiveRanting.git",
+    "url_live": "https://interactive-ranking.vercel.app/",
     "fecha": "15/10/2023"
   }
   
